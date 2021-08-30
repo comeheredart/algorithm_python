@@ -1,4 +1,5 @@
 #https://www.acmicpc.net/problem/1010
+#단순수학
 
 from math import factorial as fac
 
